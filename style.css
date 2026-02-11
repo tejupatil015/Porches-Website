@@ -28,3 +28,8 @@ a {
     text-decoration: none;
     transition: 0.3s;
 }
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #dbdce0;
+}
