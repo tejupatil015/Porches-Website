@@ -56,3 +56,15 @@ body::after {
         width: 50vw;
     }
 }
+body::before {
+    position: fixed;
+    content: "0";
+    top: 0;
+    left: 0;
+    transform: translate(-50% -50%);
+    font-size: 70rem;
+    font-weight: 200;
+    z-index: -1;
+    color: var(--white);
+    opacity: 0.5;
+}
