@@ -68,3 +68,11 @@ body::before {
     color: var(--white);
     opacity: 0.5;
 }
+.container {
+    position: relative;
+    isolation: isolate;
+    min-height: 100vh;
+    max-width: var(--max-width);
+    margin-inline: auto;
+    overflow: hidden;
+}
