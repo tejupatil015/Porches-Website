@@ -33,3 +33,15 @@ body {
     font-family: "Poppins", sans-serif;
     background-color: #dbdce0;
 }
+body::after {
+    position: fixed;
+    content: "";
+    height: 100%;
+    width: 0;
+    top: 0;
+    right: 0;
+    background-color: var(--text);
+    z-index: -1;
+
+    animation: body-bg 1s ease-in-out forwards;
+}
