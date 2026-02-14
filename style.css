@@ -109,3 +109,8 @@ nav {
 .nav-right a {
     color: var(--white);
 }
+
+.nav-links a:hover {
+    color: var(--primary);
+
+}
