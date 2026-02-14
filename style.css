@@ -91,3 +91,7 @@ nav {
     align-items: center;
     gap: 2rem;
 }
+
+.nav-links a {
+    font-family: 500;
+}
