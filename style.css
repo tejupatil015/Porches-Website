@@ -146,3 +146,7 @@ nav {
 .text-left {
     transform: translate(calc(-50% - 250px), -50%);
 }
+
+.text-right {
+    transform: translate(calc(-50% + 250px), -50%);
+}
