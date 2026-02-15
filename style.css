@@ -142,3 +142,7 @@ nav {
     color: var(--white);
     letter-spacing: 25px;
 }
+
+.text-left {
+    transform: translate(calc(-50% - 250px), -50%);
+}
