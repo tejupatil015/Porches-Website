@@ -169,3 +169,12 @@ nav {
     background-color: transparent;
     border: 1px solid var(--white);
 }
+.container .catalog {
+    top: 25%;
+    left: 0;
+    transform: translate(0, -50%) rotate(90deg);
+    padding: calc(1rem -4px) calc(2rem - 4px);
+    color: var(--white);
+    background-color: transparent;
+    border: 1px solid var(--white);
+}
