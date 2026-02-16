@@ -197,3 +197,8 @@ nav {
     color: var(--text);
     transform: translate(calc(-50% - 300px), calc(-50% - 200px));
 }
+
+.feature-2 {
+    color: var(--white);
+    transform: translate(calc(-50% + 300px), calc(-50% - 200px));
+}
