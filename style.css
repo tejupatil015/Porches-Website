@@ -185,3 +185,11 @@ nav {
     font-size: 1.2rem;
     font-weight: 500;
 }
+
+.container h5::after {
+    position: absolute;
+    content: "";
+    height: 1px;
+    width: 100px;
+    top: 50%;
+}
