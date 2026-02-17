@@ -250,3 +250,10 @@ nav {
     justify-content: space-between;
     gap: 2rem;
 }
+.footer-links li{
+    opacity: 0;
+    animation: fade-in .3s ease-in-out forwards;
+}
+.footer-links li:nth-child(1){
+    animation-delay: 6s;
+}
