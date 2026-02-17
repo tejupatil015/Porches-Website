@@ -266,3 +266,11 @@ nav {
 .footer-links li:nth-child(3){
     animation-delay: 7s;
 }
+@keyframes fade-in {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
