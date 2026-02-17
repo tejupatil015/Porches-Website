@@ -236,3 +236,9 @@ nav {
     justify-content: space-between;
     gap: 1rem;
 }
+
+.footer p{
+    font-size: .9rem;
+    color: var(--text);
+
+}
