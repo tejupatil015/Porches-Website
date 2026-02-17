@@ -242,3 +242,11 @@ nav {
     color: var(--text);
 
 }
+
+.footer-links{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+}
