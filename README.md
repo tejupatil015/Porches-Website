@@ -1,7 +1,6 @@
 🌐 Project Name
 
-Short one-line description of your website.
-Example: A responsive portfolio website built using HTML, CSS, and JavaScript.
+ A responsive website built using HTML, CSS, and JavaScript.
 
 📌 About The Project
 
@@ -56,7 +55,7 @@ project-folder/
 ├── script.js
 └── assets/
      ├── images/
-     └── icons/
+     
 
 ⚙️ Installation & Setup
 
@@ -73,7 +72,7 @@ Open index.html in your browser
 
 📸 Screenshots
 
-(Add screenshots here)
+
 
 🎯 Learning Outcomes
 
@@ -100,13 +99,6 @@ Add dark/light mode
 Contributions are welcome!
 If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-📜 License
 
-This project is open-source and available under the MIT License.
 
-👩‍💻 Author
 
-Your Name
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
