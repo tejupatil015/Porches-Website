@@ -63,7 +63,7 @@ To run this project locally:
 
 Clone the repository
 
-git clone https://github.com/your-username/project-name.git
+git clone (https://github.com/tejupatil015/Porches-Website)
 
 
 Open the project folder
