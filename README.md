@@ -71,6 +71,7 @@ Open the project folder
 Open index.html in your browser
 
 📸 Screenshots
+<img width="1910" height="915" alt="screenshot-1771396354589" src="https://github.com/user-attachments/assets/10adb4db-2a42-405f-9664-c6cc0dee736f" />
 
 
 
